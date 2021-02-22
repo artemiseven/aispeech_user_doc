@@ -3,10 +3,4 @@
 
 
 
-
-
-
-
-
-
 [深入研究](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/chapter1.html)
